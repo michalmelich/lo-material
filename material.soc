@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ooo:color-table xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:ooo="http://openoffice.org/2004/office">
+
+<draw:color draw:name="Red (50)" draw:color="#FFEBEE"/>
+<draw:color draw:name="Red (100)" draw:color="#FFCDD2"/>
+<draw:color draw:name="Red (200)" draw:color="#EF9A9A"/>
+<draw:color draw:name="Red (300)" draw:color="#E57373"/>
+<draw:color draw:name="Red (400)" draw:color="#EF5350"/>
+<draw:color draw:name="Red (500)" draw:color="#F44336"/>
+<draw:color draw:name="Red (600)" draw:color="#E53935"/>
+<draw:color draw:name="Red (700)" draw:color="#D32F2F"/>
+<draw:color draw:name="Red (800)" draw:color="#C62828"/>
+<draw:color draw:name="Red (900)" draw:color="#B71C1C"/>
+<draw:color draw:name="Red (A100)" draw:color="#FF8A80"/>
+<draw:color draw:name="Red (A200)" draw:color="#FF5252"/>
+<draw:color draw:name="Red (A400)" draw:color="#FF1744"/>
+<draw:color draw:name="Red (A700)" draw:color="#D50000"/>
+
+<draw:color draw:name="Pink (50)" draw:color="#FCE4EC"/>
+<draw:color draw:name="Pink (100)" draw:color="#F8BBD0"/>
+<draw:color draw:name="Pink (200)" draw:color="#F48FB1"/>
+<draw:color draw:name="Pink (300)" draw:color="#F06292"/>
+<draw:color draw:name="Pink (400)" draw:color="#EC407A"/>
+<draw:color draw:name="Pink (500)" draw:color="#E91E63"/>
+<draw:color draw:name="Pink (600)" draw:color="#D81B60"/>
+<draw:color draw:name="Pink (700)" draw:color="#C2185B"/>
+<draw:color draw:name="Pink (800)" draw:color="#AD1457"/>
+<draw:color draw:name="Pink (900)" draw:color="#880E4F"/>
+<draw:color draw:name="Pink (A100)" draw:color="#FF80AB"/>
+<draw:color draw:name="Pink (A200)" draw:color="#FF4081"/>
+<draw:color draw:name="Pink (A400)" draw:color="#F50057"/>
+<draw:color draw:name="Pink (A700)" draw:color="#C51162"/>
+
+<draw:color draw:name="Purple (50)" draw:color="#F3E5F5"/>
+<draw:color draw:name="Purple (100)" draw:color="#E1BEE7"/>
+<draw:color draw:name="Purple (200)" draw:color="#CE93D8"/>
+<draw:color draw:name="Purple (300)" draw:color="#BA68C8"/>
+<draw:color draw:name="Purple (400)" draw:color="#AB47BC"/>
+<draw:color draw:name="Purple (500)" draw:color="#9C27B0"/>
+<draw:color draw:name="Purple (600)" draw:color="#8E24AA"/>
+<draw:color draw:name="Purple (700)" draw:color="#7B1FA2"/>
+<draw:color draw:name="Purple (800)" draw:color="#6A1B9A"/>
+<draw:color draw:name="Purple (900)" draw:color="#4A148C"/>
+<draw:color draw:name="Purple (A100)" draw:color="#EA80FC"/>
+<draw:color draw:name="Purple (A200)" draw:color="#E040FB"/>
+<draw:color draw:name="Purple (A400)" draw:color="#D500F9"/>
+<draw:color draw:name="Purple (A700)" draw:color="#AA00FF"/>
+
+<draw:color draw:name="Deep Purple (50)" draw:color="#EDE7F6"/>
+<draw:color draw:name="Deep Purple (100)" draw:color="#D1C4E9"/>
+<draw:color draw:name="Deep Purple (200)" draw:color="#B39DDB"/>
+<draw:color draw:name="Deep Purple (300)" draw:color="#9575CD"/>
+<draw:color draw:name="Deep Purple (400)" draw:color="#7E57C2"/>
+<draw:color draw:name="Deep Purple (500)" draw:color="#673AB7"/>
+<draw:color draw:name="Deep Purple (600)" draw:color="#5E35B1"/>
+<draw:color draw:name="Deep Purple (700)" draw:color="#512DA8"/>
+<draw:color draw:name="Deep Purple (800)" draw:color="#4527A0"/>
+<draw:color draw:name="Deep Purple (900)" draw:color="#311B92"/>
+<draw:color draw:name="Deep Purple (A100)" draw:color="#B388FF"/>
+<draw:color draw:name="Deep Purple (A200)" draw:color="#7C4DFF"/>
+<draw:color draw:name="Deep Purple (A400)" draw:color="#651FFF"/>
+<draw:color draw:name="Deep Purple (A700)" draw:color="#6200EA"/>
+
+<draw:color draw:name="Indigo (50)" draw:color="#E8EAF6"/>
+<draw:color draw:name="Indigo (100)" draw:color="#C5CAE9"/>
+<draw:color draw:name="Indigo (200)" draw:color="#9FA8DA"/>
+<draw:color draw:name="Indigo (300)" draw:color="#7986CB"/>
+<draw:color draw:name="Indigo (400)" draw:color="#5C6BC0"/>
+<draw:color draw:name="Indigo (500)" draw:color="#3F51B5"/>
+<draw:color draw:name="Indigo (600)" draw:color="#3949AB"/>
+<draw:color draw:name="Indigo (700)" draw:color="#303F9F"/>
+<draw:color draw:name="Indigo (800)" draw:color="#283593"/>
+<draw:color draw:name="Indigo (900)" draw:color="#1A237E"/>
+<draw:color draw:name="Indigo (A100)" draw:color="#8C9EFF"/>
+<draw:color draw:name="Indigo (A200)" draw:color="#536DFE"/>
+<draw:color draw:name="Indigo (A400)" draw:color="#3D5AFE"/>
+<draw:color draw:name="Indigo (A700)" draw:color="#304FFE"/>
+
+<draw:color draw:name="Blue (50)" draw:color="#E3F2FD"/>
+<draw:color draw:name="Blue (100)" draw:color="#BBDEFB"/>
+<draw:color draw:name="Blue (200)" draw:color="#90CAF9"/>
+<draw:color draw:name="Blue (300)" draw:color="#64B5F6"/>
+<draw:color draw:name="Blue (400)" draw:color="#42A5F5"/>
+<draw:color draw:name="Blue (500)" draw:color="#2196F3"/>
+<draw:color draw:name="Blue (600)" draw:color="#1E88E5"/>
+<draw:color draw:name="Blue (700)" draw:color="#1976D2"/>
+<draw:color draw:name="Blue (800)" draw:color="#1565C0"/>
+<draw:color draw:name="Blue (900)" draw:color="#0D47A1"/>
+<draw:color draw:name="Blue (A100)" draw:color="#82B1FF"/>
+<draw:color draw:name="Blue (A200)" draw:color="#448AFF"/>
+<draw:color draw:name="Blue (A400)" draw:color="#2979FF"/>
+<draw:color draw:name="Blue (A700)" draw:color="#2962FF"/>
+
+<draw:color draw:name="Light Blue (50)" draw:color="#E1F5FE"/>
+<draw:color draw:name="Light Blue (100)" draw:color="#B3E5FC"/>
+<draw:color draw:name="Light Blue (200)" draw:color="#81D4FA"/>
+<draw:color draw:name="Light Blue (300)" draw:color="#4FC3F7"/>
+<draw:color draw:name="Light Blue (400)" draw:color="#29B6F6"/>
+<draw:color draw:name="Light Blue (500)" draw:color="#03A9F4"/>
+<draw:color draw:name="Light Blue (600)" draw:color="#039BE5"/>
+<draw:color draw:name="Light Blue (700)" draw:color="#0288D1"/>
+<draw:color draw:name="Light Blue (800)" draw:color="#0277BD"/>
+<draw:color draw:name="Light Blue (900)" draw:color="#01579B"/>
+<draw:color draw:name="Light Blue (A100)" draw:color="#80D8FF"/>
+<draw:color draw:name="Light Blue (A200)" draw:color="#40C4FF"/>
+<draw:color draw:name="Light Blue (A400)" draw:color="#00B0FF"/>
+<draw:color draw:name="Light Blue (A700)" draw:color="#0091EA"/>
+
+<draw:color draw:name="Cyan (50)" draw:color="#E0F7FA"/>
+<draw:color draw:name="Cyan (100)" draw:color="#B2EBF2"/>
+<draw:color draw:name="Cyan (200)" draw:color="#80DEEA"/>
+<draw:color draw:name="Cyan (300)" draw:color="#4DD0E1"/>
+<draw:color draw:name="Cyan (400)" draw:color="#26C6DA"/>
+<draw:color draw:name="Cyan (500)" draw:color="#00BCD4"/>
+<draw:color draw:name="Cyan (600)" draw:color="#00ACC1"/>
+<draw:color draw:name="Cyan (700)" draw:color="#0097A7"/>
+<draw:color draw:name="Cyan (800)" draw:color="#00838F"/>
+<draw:color draw:name="Cyan (900)" draw:color="#006064"/>
+<draw:color draw:name="Cyan (A100)" draw:color="#84FFFF"/>
+<draw:color draw:name="Cyan (A200)" draw:color="#18FFFF"/>
+<draw:color draw:name="Cyan (A400)" draw:color="#00E5FF"/>
+<draw:color draw:name="Cyan (A700)" draw:color="#00B8D4"/>
+
+<draw:color draw:name="Teal (50)" draw:color="#E0F2F1"/>
+<draw:color draw:name="Teal (100)" draw:color="#B2DFDB"/>
+<draw:color draw:name="Teal (200)" draw:color="#80CBC4"/>
+<draw:color draw:name="Teal (300)" draw:color="#4DB6AC"/>
+<draw:color draw:name="Teal (400)" draw:color="#26A69A"/>
+<draw:color draw:name="Teal (500)" draw:color="#009688"/>
+<draw:color draw:name="Teal (600)" draw:color="#00897B"/>
+<draw:color draw:name="Teal (700)" draw:color="#00796B"/>
+<draw:color draw:name="Teal (800)" draw:color="#00695C"/>
+<draw:color draw:name="Teal (900)" draw:color="#004D40"/>
+<draw:color draw:name="Teal (A100)" draw:color="#A7FFEB"/>
+<draw:color draw:name="Teal (A200)" draw:color="#64FFDA"/>
+<draw:color draw:name="Teal (A400)" draw:color="#1DE9B6"/>
+<draw:color draw:name="Teal (A700)" draw:color="#00BFA5"/>
+
+<draw:color draw:name="Green (50)" draw:color="#E8F5E9"/>
+<draw:color draw:name="Green (100)" draw:color="#C8E6C9"/>
+<draw:color draw:name="Green (200)" draw:color="#A5D6A7"/>
+<draw:color draw:name="Green (300)" draw:color="#81C784"/>
+<draw:color draw:name="Green (400)" draw:color="#66BB6A"/>
+<draw:color draw:name="Green (500)" draw:color="#4CAF50"/>
+<draw:color draw:name="Green (600)" draw:color="#43A047"/>
+<draw:color draw:name="Green (700)" draw:color="#388E3C"/>
+<draw:color draw:name="Green (800)" draw:color="#2E7D32"/>
+<draw:color draw:name="Green (900)" draw:color="#1B5E20"/>
+<draw:color draw:name="Green (A100)" draw:color="#B9F6CA"/>
+<draw:color draw:name="Green (A200)" draw:color="#69F0AE"/>
+<draw:color draw:name="Green (A400)" draw:color="#00E676"/>
+<draw:color draw:name="Green (A700)" draw:color="#00C853"/>
+
+<draw:color draw:name="Light Green (50)" draw:color="#F1F8E9"/>
+<draw:color draw:name="Light Green (100)" draw:color="#DCEDC8"/>
+<draw:color draw:name="Light Green (200)" draw:color="#C5E1A5"/>
+<draw:color draw:name="Light Green (300)" draw:color="#AED581"/>
+<draw:color draw:name="Light Green (400)" draw:color="#9CCC65"/>
+<draw:color draw:name="Light Green (500)" draw:color="#8BC34A"/>
+<draw:color draw:name="Light Green (600)" draw:color="#7CB342"/>
+<draw:color draw:name="Light Green (700)" draw:color="#689F38"/>
+<draw:color draw:name="Light Green (800)" draw:color="#558B2F"/>
+<draw:color draw:name="Light Green (900)" draw:color="#33691E"/>
+<draw:color draw:name="Light Green (A100)" draw:color="#CCFF90"/>
+<draw:color draw:name="Light Green (A200)" draw:color="#B2FF59"/>
+<draw:color draw:name="Light Green (A400)" draw:color="#76FF03"/>
+<draw:color draw:name="Light Green (A700)" draw:color="#64DD17"/>
+
+<draw:color draw:name="Lime (50)" draw:color="#F9FBE7"/>
+<draw:color draw:name="Lime (100)" draw:color="#F0F4C3"/>
+<draw:color draw:name="Lime (200)" draw:color="#E6EE9C"/>
+<draw:color draw:name="Lime (300)" draw:color="#DCE775"/>
+<draw:color draw:name="Lime (400)" draw:color="#D4E157"/>
+<draw:color draw:name="Lime (500)" draw:color="#CDDC39"/>
+<draw:color draw:name="Lime (600)" draw:color="#C0CA33"/>
+<draw:color draw:name="Lime (700)" draw:color="#AFB42B"/>
+<draw:color draw:name="Lime (800)" draw:color="#9E9D24"/>
+<draw:color draw:name="Lime (900)" draw:color="#827717"/>
+<draw:color draw:name="Lime (A100)" draw:color="#F4FF81"/>
+<draw:color draw:name="Lime (A200)" draw:color="#EEFF41"/>
+<draw:color draw:name="Lime (A400)" draw:color="#C6FF00"/>
+<draw:color draw:name="Lime (A700)" draw:color="#AEEA00"/>
+
+<draw:color draw:name="Yellow (50)" draw:color="#FFFDE7"/>
+<draw:color draw:name="Yellow (100)" draw:color="#FFF9C4"/>
+<draw:color draw:name="Yellow (200)" draw:color="#FFF59D"/>
+<draw:color draw:name="Yellow (300)" draw:color="#FFF176"/>
+<draw:color draw:name="Yellow (400)" draw:color="#FFEE58"/>
+<draw:color draw:name="Yellow (500)" draw:color="#FFEB3B"/>
+<draw:color draw:name="Yellow (600)" draw:color="#FDD835"/>
+<draw:color draw:name="Yellow (700)" draw:color="#FBC02D"/>
+<draw:color draw:name="Yellow (800)" draw:color="#F9A825"/>
+<draw:color draw:name="Yellow (900)" draw:color="#F57F17"/>
+<draw:color draw:name="Yellow (A100)" draw:color="#FFFF8D"/>
+<draw:color draw:name="Yellow (A200)" draw:color="#FFFF00"/>
+<draw:color draw:name="Yellow (A400)" draw:color="#FFEA00"/>
+<draw:color draw:name="Yellow (A700)" draw:color="#FFD600"/>
+
+<draw:color draw:name="Amber (50)" draw:color="#FFF8E1"/>
+<draw:color draw:name="Amber (100)" draw:color="#FFECB3"/>
+<draw:color draw:name="Amber (200)" draw:color="#FFE082"/>
+<draw:color draw:name="Amber (300)" draw:color="#FFD54F"/>
+<draw:color draw:name="Amber (400)" draw:color="#FFCA28"/>
+<draw:color draw:name="Amber (500)" draw:color="#FFC107"/>
+<draw:color draw:name="Amber (600)" draw:color="#FFB300"/>
+<draw:color draw:name="Amber (700)" draw:color="#FFA000"/>
+<draw:color draw:name="Amber (800)" draw:color="#FF8F00"/>
+<draw:color draw:name="Amber (900)" draw:color="#FF6F00"/>
+<draw:color draw:name="Amber (A100)" draw:color="#FFE57F"/>
+<draw:color draw:name="Amber (A200)" draw:color="#FFD740"/>
+<draw:color draw:name="Amber (A400)" draw:color="#FFC400"/>
+<draw:color draw:name="Amber (A700)" draw:color="#FFAB00"/>
+
+<draw:color draw:name="Orange (50)" draw:color="#FFF3E0"/>
+<draw:color draw:name="Orange (100)" draw:color="#FFE0B2"/>
+<draw:color draw:name="Orange (200)" draw:color="#FFCC80"/>
+<draw:color draw:name="Orange (300)" draw:color="#FFB74D"/>
+<draw:color draw:name="Orange (400)" draw:color="#FFA726"/>
+<draw:color draw:name="Orange (500)" draw:color="#FF9800"/>
+<draw:color draw:name="Orange (600)" draw:color="#FB8C00"/>
+<draw:color draw:name="Orange (700)" draw:color="#F57C00"/>
+<draw:color draw:name="Orange (800)" draw:color="#EF6C00"/>
+<draw:color draw:name="Orange (900)" draw:color="#E65100"/>
+<draw:color draw:name="Orange (A100)" draw:color="#FFD180"/>
+<draw:color draw:name="Orange (A200)" draw:color="#FFAB40"/>
+<draw:color draw:name="Orange (A400)" draw:color="#FF9100"/>
+<draw:color draw:name="Orange (A700)" draw:color="#FF6D00"/>
+
+<draw:color draw:name="Deep Orange (50)" draw:color="#FBE9E7"/>
+<draw:color draw:name="Deep Orange (100)" draw:color="#FFCCBC"/>
+<draw:color draw:name="Deep Orange (200)" draw:color="#FFAB91"/>
+<draw:color draw:name="Deep Orange (300)" draw:color="#FF8A65"/>
+<draw:color draw:name="Deep Orange (400)" draw:color="#FF7043"/>
+<draw:color draw:name="Deep Orange (500)" draw:color="#FF5722"/>
+<draw:color draw:name="Deep Orange (600)" draw:color="#F4511E"/>
+<draw:color draw:name="Deep Orange (700)" draw:color="#E64A19"/>
+<draw:color draw:name="Deep Orange (800)" draw:color="#D84315"/>
+<draw:color draw:name="Deep Orange (900)" draw:color="#BF360C"/>
+<draw:color draw:name="Deep Orange (A100)" draw:color="#FF9E80"/>
+<draw:color draw:name="Deep Orange (A200)" draw:color="#FF6E40"/>
+<draw:color draw:name="Deep Orange (A400)" draw:color="#FF3D00"/>
+<draw:color draw:name="Deep Orange (A700)" draw:color="#DD2C00"/>
+
+<draw:color draw:name="Brown (50)" draw:color="#EFEBE9"/>
+<draw:color draw:name="Brown (100)" draw:color="#D7CCC8"/>
+<draw:color draw:name="Brown (200)" draw:color="#BCAAA4"/>
+<draw:color draw:name="Brown (300)" draw:color="#A1887F"/>
+<draw:color draw:name="Brown (400)" draw:color="#8D6E63"/>
+<draw:color draw:name="Brown (500)" draw:color="#795548"/>
+<draw:color draw:name="Brown (600)" draw:color="#6D4C41"/>
+<draw:color draw:name="Brown (700)" draw:color="#5D4037"/>
+<draw:color draw:name="Brown (800)" draw:color="#4E342E"/>
+<draw:color draw:name="Brown (900)" draw:color="#3E2723"/>
+
+<draw:color draw:name="Grey (50)" draw:color="#FAFAFA"/>
+<draw:color draw:name="Grey (100)" draw:color="#F5F5F5"/>
+<draw:color draw:name="Grey (200)" draw:color="#EEEEEE"/>
+<draw:color draw:name="Grey (300)" draw:color="#E0E0E0"/>
+<draw:color draw:name="Grey (400)" draw:color="#BDBDBD"/>
+<draw:color draw:name="Grey (500)" draw:color="#9E9E9E"/>
+<draw:color draw:name="Grey (600)" draw:color="#757575"/>
+<draw:color draw:name="Grey (700)" draw:color="#616161"/>
+<draw:color draw:name="Grey (800)" draw:color="#424242"/>
+<draw:color draw:name="Grey (900)" draw:color="#212121"/>
+
+<draw:color draw:name="Blue Grey (50)" draw:color="#ECEFF1"/>
+<draw:color draw:name="Blue Grey (100)" draw:color="#CFD8DC"/>
+<draw:color draw:name="Blue Grey (200)" draw:color="#B0BEC5"/>
+<draw:color draw:name="Blue Grey (300)" draw:color="#90A4AE"/>
+<draw:color draw:name="Blue Grey (400)" draw:color="#78909C"/>
+<draw:color draw:name="Blue Grey (500)" draw:color="#607D8B"/>
+<draw:color draw:name="Blue Grey (600)" draw:color="#546E7A"/>
+<draw:color draw:name="Blue Grey (700)" draw:color="#455A64"/>
+<draw:color draw:name="Blue Grey (800)" draw:color="#37474F"/>
+<draw:color draw:name="Blue Grey (900)" draw:color="#263238"/>
+
+<draw:color draw:name="Black (50)" draw:color="#000000"/>
+
+<draw:color draw:name="White (50)" draw:color="#FFFFFF"/>
+
+</ooo:color-table>
